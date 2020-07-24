@@ -12,7 +12,7 @@ Live Web App: https://dr.practice-diagnosis.woza.work/
 Many nurses work on the front lines of blindness prevention in regions where there's a shortage of trained opthalmologists. I created this online tool to help these nurses improve their diabetic retinopathy diagnosis skills.
 
 
-### For Reference:
+### Reference
 
 Google researchers conducted a human-centered study of their diabetic retinopathy detection system at 11 clinics in Thailand. The findings are presented in this enlightening paper:<br>
 https://dl.acm.org/doi/pdf/10.1145/3313831.3376718
