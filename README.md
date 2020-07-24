@@ -14,8 +14,8 @@ Many nurses work on the front lines of blindness prevention in regions where the
 
 ### For Reference:
 
-Google researchers conducted a human-centered study of their diabetic retinopathy detection system at 11 clinics in Thailand. The findings are presented in this enlightening paper:
+Google researchers conducted a human-centered study of their diabetic retinopathy detection system at 11 clinics in Thailand. The findings are presented in this enlightening paper:<br>
 https://dl.acm.org/doi/pdf/10.1145/3313831.3376718
 
-Video about this clinical research program:
+Video about this clinical research program:<br>
 https://www.youtube.com/watch?v=Tt7gwWQ9z58
