@@ -11,7 +11,7 @@ Live Web App: https://dr.practice-diagnosis.woza.work/
 
 Many nurses work on the front lines of blindness prevention in regions where there's a shortage of trained opthalmologists. I created this online tool to help these nurses improve their diabetic retinopathy diagnosis skills.
 
-## Dataset Source
+### Dataset
 
 The dataset is part of the APTOS 2019 Blindness Detection Kaggle competition.<br>
 https://www.kaggle.com/c/aptos2019-blindness-detection
