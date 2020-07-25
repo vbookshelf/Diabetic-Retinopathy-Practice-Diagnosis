@@ -9,7 +9,7 @@ Live Web App: https://dr.practice-diagnosis.woza.work/
 
 <br>
 
-Many nurses work on the front lines of blindness prevention in regions where there's a shortage of trained opthalmologists. I created this online tool to help these nurses improve their diabetic retinopathy diagnosis skills.
+Many nurses work on the front lines of blindness prevention in regions where there's a shortage of trained ophthalmologists. I created this online tool to help these nurses improve their diabetic retinopathy diagnosis skills.
 
 ### Dataset
 
