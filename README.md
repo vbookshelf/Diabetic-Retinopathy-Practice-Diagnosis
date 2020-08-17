@@ -17,9 +17,9 @@ The dataset is part of the APTOS 2019 Blindness Detection Kaggle competition.<br
 https://www.kaggle.com/c/aptos2019-blindness-detection
 
 
-### Reference
+### Inspiration
 
-Google researchers conducted a human-centered study of their diabetic retinopathy detection system at 11 clinics in Thailand. The findings are presented in this enlightening paper:<br>
+Google researchers conducted a human-centered study of their diabetic retinopathy detection system at 11 clinics in Thailand. Their paper inspired this project.<br>
 https://dl.acm.org/doi/pdf/10.1145/3313831.3376718
 
 Video about this clinical research program:<br>
